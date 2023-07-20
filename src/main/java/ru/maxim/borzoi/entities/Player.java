@@ -5,7 +5,7 @@ import ru.maxim.borzoi.gameMain.Game;
 import ru.maxim.borzoi.utilz.LoadSave;
 
 
-import java.awt.*;
+import java.awt.Point;
 import java.awt.geom.Rectangle2D;
 
 // import point
