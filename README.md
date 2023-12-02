@@ -1,4 +1,4 @@
 # BorzoiGameMV
-small platformer game /n
-Model-View
-Swing
+small platformer game,
+Model-View,
+Swing,
